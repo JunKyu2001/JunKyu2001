@@ -64,13 +64,14 @@
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="20202806@gm.hannam.ac.kr">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/20202806@gm.hannam.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 
 
-  ![](./profile-3d-contrib/profile-night-view.svg)
+
 
 </div>
 
+![](./profile-3d-contrib/profile-night-view.svg)
