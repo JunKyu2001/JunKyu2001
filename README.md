@@ -58,9 +58,9 @@
   <a href="https://velog.io/@junkyu">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="20202806@gm.hannam.ac.kr">
+  <a href="saba2702@naver.com">
     <img
-      src="https://img.shields.io/badge/20202806@gm.hannam.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/saba2702@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 
 
