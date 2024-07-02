@@ -58,10 +58,11 @@
   <a href="https://velog.io/@junkyu">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="saba2702@naver.com">
+  <a href="mailto:saba2702@naver.com">
     <img
       src="https://img.shields.io/badge/saba2702@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+</div>
 
 
 
