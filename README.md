@@ -65,6 +65,6 @@
 </div>
 
 
-
-
+<div align="center">
+  <img src="https://github.com/JunKyu2001/JunKyu2001/blob/main/Notion%20Template%20-%20footer.png?raw=true" />
 </div>
