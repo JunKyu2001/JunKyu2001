@@ -1,70 +1,35 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/JunKyu2001/JunKyu2001/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-07-02%20155723.png?raw=true" />
-</div>
+# 성심당 방문객 이동 패턴 및 소비 행태 분석 프로젝트
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+## 소개
+본 프로젝트는 대전의 대표적인 베이커리인 **성심당**을 방문하는 고객들의 **이동 패턴**과 **소비 행태**를 분석하여 지역 경제 활성화와 관광 발전을 촉진하는 정책을 제안하는 것을 목표로 합니다.
 
+## 배경
+성심당은 독특한 역사와 맛으로 전국적인 명성을 얻고 있으며, 많은 관광객들이 방문하고 있습니다. 그러나 방문객들의 상세한 이동 경로와 소비 패턴에 대한 데이터는 부족한 상황입니다. 이러한 데이터를 수집하고 분석함으로써 지역 상권과 관광 산업에 새로운 활력을 불어넣고자 합니다.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
+## 목표
+- **방문객 이동 패턴 분석**: 성심당 방문 전후의 이동 경로 파악
+- **소비 행태 분석**: 구매 상품, 구매 금액 등의 소비 패턴 분석
+- **정책 제안**: 분석 결과를 바탕으로 한 지역 경제 및 관광 활성화 방안 제시
 
-<br>
+## 데이터 수집 방법
+- **설문 조사**: 오프라인 및 온라인 설문을 통한 기본 정보 수집
+- **위치 데이터 수집**: 모바일 앱이나 GPS 데이터를 활용한 이동 경로 추적
+- **판매 데이터 분석**: 성심당의 판매 데이터와 카드 사용 내역 분석
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
+## 분석 방법론
+1. **데이터 전처리**
+   - 누락값 처리
+   - 이상치 탐지 및 제거
+2. **탐색적 데이터 분석 (EDA)**
+   - 데이터 분포 확인
+   - 상관관계 분석
+3. **군집 분석**
+   - 방문객 유형 분류
+4. **경로 분석**
+   - 주요 이동 경로 시각화
+   - 체류 시간 및 이동 속도 분석
 
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@junkyu">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:saba2702@naver.com">
-    <img
-      src="https://img.shields.io/badge/saba2702@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
-
-
-<div align="center">
-  <img src="https://github.com/JunKyu2001/JunKyu2001/blob/main/Notion%20Template%20-%20footer.png?raw=true" />
-</div>
+## 기대 효과
+- **지역 상권 활성화**: 주변 상점과의 협업을 통한 상권 발전
+- **관광 자원 개발**: 새로운 관광 코스 개발 및 홍보
+- **정책 수립 지원**: 데이터 기반의 효과적인 정책 결정 지원
